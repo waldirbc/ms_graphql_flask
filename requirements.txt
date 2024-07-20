@@ -1,0 +1,5 @@
+flask
+strawberry-graphql
+sqlalchemy
+databases
+gunicorn
